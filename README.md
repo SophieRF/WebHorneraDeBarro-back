@@ -52,14 +52,14 @@ GH Link: https://github.com/SophieRF/WebHorneraDeBarro-front.git
  WhatsApp API (WhatsApp Click-to-Chat):  Envío del carrito al vendedor
 
 ## Capturas
-![Pantalla principal](src/assets/HomeHDB.png)
-![Pantalla principal - novedades](src/assets/HomeNovedades.png)
-![Pantalla principal - categorías](src/assets/HomeCategorías.png)
-![Pantalla de categoría](src/assets/CategoriaScreen.png)
-![Pantalla de producto](src/assets/ProductoScreen.png)
-![Pantalla de carrito](src/assets/CarritoPrevHDB.png)
-![Pantalla de pedido](src/assets/CarritoHDB.png)
-![Sobre mi](src/assets/SobreMi.png)
+![Pantalla principal](assets/HomeHDB.png)
+![Pantalla principal - novedades](assets/HomeNovedades.png)
+![Pantalla principal - categorías](assets/HomeCategorías.png)
+![Pantalla de categoría](assets/CategoriaScreen.png)
+![Pantalla de producto](assets/ProductoScreen.png)
+![Pantalla de carrito](assets/CarritoPrevHDB.png)
+![Pantalla de pedido](assets/CarritoHDB.png)
+![Sobre mi](assets/SobreMi.png)
 
 ---
 
